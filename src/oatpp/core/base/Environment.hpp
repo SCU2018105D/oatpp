@@ -39,26 +39,32 @@
 
 #define OATPP_VERSION "1.1.0"
 
+
+// 定义8位
 typedef unsigned char v_char8;
 typedef v_char8 *p_char8;
 
 typedef int8_t v_int8;
 typedef v_int8* p_int8;
+
 typedef uint8_t v_uint8;
 typedef v_uint8* p_uint8;
 
 typedef int16_t v_int16;
 typedef v_int16* p_int16;
+
 typedef uint16_t v_uint16;
 typedef v_uint16* p_uint16;
 
 typedef int32_t v_int32;
 typedef v_int32* p_int32;
+
 typedef uint32_t v_uint32;
 typedef v_uint32* p_uint32;
 
 typedef int64_t v_int64;
 typedef v_int64* p_int64;
+
 typedef uint64_t v_uint64;
 typedef v_uint64* p_uint64;
 
